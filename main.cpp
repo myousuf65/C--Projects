@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Lec1
-//
-//  Created by Yousuf Muhammad on 20/1/2022.
-//
-
 #include <iostream>
 using namespace std;
 //--------------------------------------------------
